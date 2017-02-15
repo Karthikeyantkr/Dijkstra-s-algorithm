@@ -1,5 +1,5 @@
 
--------------------------Graph Implementation using Dijsktra and BFS with added Graph Functions-----------------------------------------
+-------------------------Graph Implementation using Dijsktra and BFS with added Graph Functions-------------------------------
 
 
 About
